@@ -1,4 +1,4 @@
-### Hey I'm @Metrea (Chandler Rosenthal)
+### Hey I'm @Metrea (Chandler Rosenthal) 👋🏻
 
 I'm a software engineer from the United States 🇺🇸
 
