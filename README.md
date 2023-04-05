@@ -12,4 +12,4 @@ I'm @Metrea (Chandler Rosenthal) from the United States 🇺🇸 who is passiona
 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dominikhei&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Metrea&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
